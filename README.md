@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾, I'm Adrien</h1>
-<h3 align="center">A full-stack web developer from Miami, FL</h3>
+<h3 align="center">A web developer from Miami, FL</h3>
 
 - 🔭 I’m currently working on [The Beauty Plan](https://github.com/adriendorce/the-beauty-plan)
 
