@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏾, I'm Adrien</h1>
 <h3 align="center">A web developer from Miami, FL</h3>
 
-- 🔭 I’m currently learning: Front-end and Back-end Javascript
+- 🔭 I’m currently working on [The Beauty Plan](https://github.com/adriendorce/the-beauty-plan)
 
 - 👨‍💻 All of my projects are available at [https://adriendorce.com/](https://adriendorce.com/)
 
