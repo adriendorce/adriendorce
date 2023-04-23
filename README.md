@@ -1,4 +1,4 @@
-
+<div align="center"><img src="pink-header.jpg" alt="Welcome to my Github!"/></div>
 
 <h1 align="center">Hi 👋🏾, I'm Adrien</h1>
 <h3 align="center">A web developer from Miami, FL</h3>
